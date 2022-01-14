@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChuckCottrill [Chuck Cottrill](chuck.cottrill@gmail.com)
+- 👋 Hi, I’m [Chuck Cottrill](chuck.cottrill at gmail.com)
 - 👀 I’m interested in Computing Systems (Algorithms, Systems, Concurrency, Messaging), and AI/ML
 - 🌱 I’m currently learning Chemistry and French
 - 💞️ I am open to collaborate on Distributed and High Performance Systems
